@@ -1,0 +1,6 @@
+{
+    "appname": "sample-config-file",
+    "version": "1.00.000",
+    "Hostname": "localhost",
+    "Port": "8080"
+}
